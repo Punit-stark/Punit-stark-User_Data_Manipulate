@@ -1,0 +1,16 @@
+input{
+    padding: 2%;
+    border-radius: 30px;
+}
+input[type=text]:focus {
+    background-color: lightblue;
+  }
+  
+button{
+    padding: 5px;
+    border: 2px solid red;
+    border-radius: 20px;
+    margin-left: 2%;
+    cursor: pointer;
+    background-color: rgb(38, 240, 173);
+}  

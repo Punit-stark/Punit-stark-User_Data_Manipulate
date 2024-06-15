@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+body{
+  text-align: center;
+  background-color: rgba(9, 43, 87, 0.581);
+}
+h1{
+  font-family: Algerian;
+  color: rgb(188, 3, 3);
+}
